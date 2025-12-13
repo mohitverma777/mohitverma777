@@ -1,10 +1,10 @@
 # Hi there, I'm Mohit Verma! 👋
 
-### 👨‍💻 Full-Stack Developer | 🎓 Computer Engineering Student
+### 👨‍💻 Full-Stack Developer & Tech Enthusiast | Building Scalable Solutions Across Web, Mobile & Cloud
 
 I am a final-year **Computer Engineering student** based in **Ahmedabad, India**, passionate about building scalable solutions that solve real-world problems. 
 
-While my core expertise lies in the **MERN Stack**, I am a true tech enthusiast who loves exploring **Data Science**, **Machine Learning**, **IoT**, and **Cybersecurity**. I enjoy bridging the gap between hardware and software to create holistic applications.
+Passionate about building scalable, production-ready solutions across **web**, **mobile**, and **IoT** platforms, with a strong focus on clean architecture, performance, and developer experience. Currently building modern applications using **React**, **Node.js**, **cloud services**, and modern DevOps practices while collaborating with clients and teams on real-world projects.
 
 - 🔭 I’m currently working on **Modern Web Applications & IoT Integration**
 - 🌱 I’m currently learning **Advanced Cloud Architecture & DevOps**

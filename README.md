@@ -15,18 +15,4 @@ This repository contains the source code for my personal portfolio website.
 
 ---
 
-## 📂 Featured Projects
-
-- **Premium Saree E‑commerce Store**  
-  Full‑stack MERN e‑commerce platform with product management, Stripe payments, and admin dashboard.
-
-- **AMC Smart City Dashboard**  
-  Real‑time IoT data visualization and analytics dashboard using React, Node.js, and PostgreSQL.
-
-- **Tailwind UI & Animations**  
-  Collection of modern UI components (headers, blog pages, contact forms, theme toggles) using Tailwind CSS and Framer Motion.
-
----
-
-## 🧱 Project Structure
 

@@ -1,4 +1,4 @@
-# Mohit Verma – Full‑Stack Developer
+# Mohit Verma
 
 Hi, I'm **Mohit Verma**, a full‑stack developer from Ahmedabad, India, building modern web applications with **React**, **Node.js**, and **cloud technologies**.
 

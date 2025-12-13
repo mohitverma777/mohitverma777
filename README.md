@@ -1,16 +1,32 @@
-## Hi there 👋
+# Mohit Verma – Full‑Stack Developer
 
-<!--
-**mohitverma777/mohitverma777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Mohit Verma**, a full‑stack developer from Ahmedabad, India, building modern web applications with **React**, **Node.js**, and **cloud technologies**.
 
-Here are some ideas to get you started:
+This repository contains the source code for my personal portfolio website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React, React Router, Framer Motion, Tailwind CSS  
+- **Backend:** Node.js, Express (for API projects)  
+- **Databases:** MongoDB, PostgreSQL  
+- **Other:** REST APIs, authentication, Stripe payment integration, Docker (for some projects), Vite
+
+---
+
+## 📂 Featured Projects
+
+- **Premium Saree E‑commerce Store**  
+  Full‑stack MERN e‑commerce platform with product management, Stripe payments, and admin dashboard.
+
+- **AMC Smart City Dashboard**  
+  Real‑time IoT data visualization and analytics dashboard using React, Node.js, and PostgreSQL.
+
+- **Tailwind UI & Animations**  
+  Collection of modern UI components (headers, blog pages, contact forms, theme toggles) using Tailwind CSS and Framer Motion.
+
+---
+
+## 🧱 Project Structure
+

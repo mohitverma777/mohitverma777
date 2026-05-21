@@ -6,7 +6,7 @@ I am a final-year **Computer Engineering student** based in **Ahmedabad, India**
 
 Passionate about building scalable, production-ready solutions across **web**, **mobile**, and **IoT** platforms, with a strong focus on clean architecture, performance, and developer experience. Currently building modern applications using **React**, **Node.js**, **cloud services**, and modern DevOps practices while collaborating with clients and teams on real-world projects.
 
-- 🔭 I’m currently working on **Modern Web Applications & IoT Integration**
+- 🔭 I’m currently working on **Modern Web Applications**
 - 🌱 I’m currently learning **Advanced Cloud Architecture & DevOps**
 - 💼 Open to freelance projects and internship opportunities.
 
